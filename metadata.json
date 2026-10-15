@@ -1,0 +1,6 @@
+{
+  "name": "AI Media & Audio Studio Pro",
+  "description": "Professional AI generation suite for text-to-image, text-to-video, presenter commercial ads, and Gen Z viral studio with 15-day free trial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
